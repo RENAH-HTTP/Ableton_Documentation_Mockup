@@ -1,10 +1,6 @@
-# Live Audio Effect Reference
+# 1. Live Audio Effect Reference
 
-**Released:** October 08, 2024
-
-**Edition:** Live 12.1
-
-## 1. Auto Shift
+## 1.1 Auto Shift
 
 ![Alt text](../images/0001_-_auto_shift_new.jpg)
 
@@ -13,9 +9,7 @@ Auto Shift is a real-time pitch tracking and correction effect made for **monoph
 - **Scales** - you define in the device (Quantizer)
 - **MIDI notes** - coming from another track (MIDI sidechain), which could be helpgul for harmonies and pitch control.
 
----
-
-### Usage 
+### 1.1.1 Usage 
 
 Auto Shift is categorized in the new version of Live as an **Audio Effect**. It can work best when added to an audio track that contains a clear pitched signal (voice, monophonic synth lead, bass, etc.).
 
@@ -26,9 +20,7 @@ Auto Shift is categorized in the new version of Live as an **Audio Effect**. It 
 	 - **MIDI**: enable **MIDI In**, choose a MIDI track as the source, and play notes to control the correction.
 4. Set **Dry/Wet** to balance natural vs corrected sound.
 
----
-
-### Input - Pitch Tracking and Latency
+### 1.1.2 Input - Pitch Tracking and Latency
 
 The Input section is where you optimize tracking before you touch “tuning” parameters.
 
@@ -38,9 +30,7 @@ The Input section is where you optimize tracking before you touch “tuning” p
 - **Latency** is displayed in milliseconds.
 - **Live Mode** (toggle in the title bar) reduces latency for performance, but can introduce gltiches depending on how fast the pitch changes
 
----
-
-### Quantizer Mode - Scale-Based Correction)
+### 1.1.3 Quantizer Mode - Scale-Based Correction)
 
 Quantizer corrects incoming audio to the notes of a defined scale.
 
@@ -54,9 +44,7 @@ Quantizer corrects incoming audio to the notes of a defined scale.
 
 If **Use Current Scale** is enabled in the device title bar, Auto Shift will follow the active clip scale selected in the session (“scale awareness”), and the scale’s notes will be highlighted.
 
----
-
-### MIDI Mode (Pitch Correction from Notes)
+### 1.1.4 MIDI Mode (Pitch Correction from Notes)
 
 When you enable **MIDI In**, Auto Shift switches to using incoming MIDI data to determine the target pitch instead of using the scale established in the Quantizer.
 
@@ -68,9 +56,7 @@ When you enable **MIDI In**, Auto Shift switches to using incoming MIDI data to 
 
 **Important**: If MIDI Input is to be enabled, Auto Shift will only output audio when it is receiving MIDI notes.
 
----
-
-### LFO Tab (Modulation)
+### 1.1.5 LFO Tab (Modulation)
 
 Auto Shift includes an LFO that can modulate the following values: **Pitch**, **Formant**, **Volume**, and **Pan**.
 
@@ -81,9 +67,7 @@ Auto Shift includes an LFO that can modulate the following values: **Pitch**, **
 
 The LFO will affects the incoming signal whether or not pitch correction is enabled.
 
----
-
-### Pitch and Formant Shifting
+### 1.1.6 Pitch and Formant Shifting
 
 You can use pitch and formant controls for “tuned” effects *or* as a creative pitch/formant shifter.
 
@@ -93,9 +77,7 @@ You can use pitch and formant controls for “tuned” effects *or* as a creativ
 | **Formant Shift (-100% to 100%)** | Changes tonal and timbral character without changing perceived pitch |
 | **Formant Follow** | Links formant movement to pitch movement for more natural results |
 
----
-
-### Vibrato
+### 1.1.7 Vibrato
 
 Vibrato is useful for subtle motion or “harder” pitch effects.
 
@@ -106,32 +88,14 @@ Vibrato is useful for subtle motion or “harder” pitch effects.
 
 The **Dry/Wet** control also lives here. At **50%**, you can create a simple doubler-style blend between dry and processed signals.
 
----
-
-### FAQ
-
-**Does Auto Shift work on chords or full mixes?**
-
-It’s mainly designed for monophonic sources. Polyphonic material can confuse pitch detection; for harmonies, please use MIDI input (Poly) to generate more controlled results.
-
-**Why is there latency?**
-
-Auto Shift analyzes pitch in real time - therefore tracking introduces latency. The way to mediate this is by using Live Mode which can reduce latency for performance.
-
-**Why do I get no output in MIDI mode?**
-
-With MIDI input enabled, Auto Shift only produces sound while it receives MIDI notes. Check the MIDI source routing and make sure notes are being sent.
-
----
-
-#### Changelog
+### 1.1.8 Changelog
 
 | Version | Change |
 |---|---|
 | **12.1.5** | In Auto Shift, MPE pitch bend now uses a 48 semitones range. Fixed a bug that caused phasing artifacts in Auto Shift when MIDI Input was turned off while notes were still playing. Mapping the Scale and Root parameters to a Rack’s Macro Controls now works as expected in the Scale, Arpeggiator, and Auto Shift devices. |
 | **12.1** | First release of Auto Shift |
 
-## 2. Chorus Ensemble
+## 1.2 Chorus Ensemble
 
 Chorus-Ensemble is time modulation device developed inside Live 12 and earlier versions. It serves as a chorus effect with multiple modes(**Chorus**, **Ensemble**,**Vibrato**) each tailoring to different use. With the latest update, the **Clasic** mode has been renamed to **Chorus** to better reflect it resulting effect. The updated **Chorus** mode features two new parameters with which you can interact:
 
