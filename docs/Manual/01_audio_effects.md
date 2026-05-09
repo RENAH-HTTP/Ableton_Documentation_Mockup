@@ -2,7 +2,7 @@
 
 ## 1.1 Auto Shift
 
-![Alt text](../images/0001_-_auto_shift_new.jpg)
+![Alt text](..images/Manual/01_Audio_Effects/01.01_Auto_Shift/01_-_auto_shift_new.jpg)
 
 Auto Shift is a real-time pitch tracking and correction effect made for **monophonic audio** (with a inclination towards vocal recordings and samples). It can receive pitch information in two main ways:
 
@@ -13,14 +13,14 @@ Auto Shift is a real-time pitch tracking and correction effect made for **monoph
 
 Auto Shift is categorized in the new version of Live as an **Audio Effect**. It can work best when added to an audio track that contains a clear pitched signal (voice, monophonic synth lead, bass, etc.).
 
-1. Drag **Auto Shift** onto an audio track.
-2. In the **Input** section, you can choose a **Pitch Range** (High / Mid / Bass) that matches the source.
-3. Next, you can use one of the correction modes:
-	 - **Quantizer**: pick a Root + Scale (or select included notes), then adjust **Correction Strength**.
-	 - **MIDI**: enable **MIDI In**, choose a MIDI track as the source, and play notes to control the correction.
-4. Set **Dry/Wet** to balance natural vs corrected sound.
+Drag **Auto Shift** onto an audio track. In the **Input** section, you can choose a **Pitch Range** (High / Mid / Bass) that matches the source. Next, you can use one of the correction modes:
+- **Quantizer**: pick a Root + Scale (or select included notes), then adjust **Correction Strength**.
+- **MIDI**: enable **MIDI In**, choose a MIDI track as the source, and play notes to control the correction.
+Lastly, set **Dry/Wet** to balance natural vs corrected sound.
 
 ### 1.1.2 Input - Pitch Tracking and Latency
+
+![Alt text](..images/Manual/01_Audio_Effects/01.01_Auto_Shift/AutoShiftInputSectionL12.png)
 
 The Input section is where you optimize tracking before you touch “tuning” parameters.
 
@@ -30,7 +30,7 @@ The Input section is where you optimize tracking before you touch “tuning” p
 - **Latency** is displayed in milliseconds.
 - **Live Mode** (toggle in the title bar) reduces latency for performance, but can introduce gltiches depending on how fast the pitch changes
 
-### 1.1.3 Quantizer Mode - Scale-Based Correction)
+### 1.1.3 Quantizer Mode - Scale-Based Correction
 
 Quantizer corrects incoming audio to the notes of a defined scale.
 
