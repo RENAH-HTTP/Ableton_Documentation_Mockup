@@ -2,7 +2,7 @@
 
 ## 1.1 Auto Shift
 
-![Alt text](..images/Manual/01_Audio_Effects/01.01_Auto_Shift/01_-_auto_shift_new.jpg)
+![Alt text](../images/Manual/01_Audio_Effects/01.01_Auto_Shift/01_-_auto_shift_new.jpg)
 
 Auto Shift is a real-time pitch tracking and correction effect made for **monophonic audio** (with a inclination towards vocal recordings and samples). It can receive pitch information in two main ways:
 
@@ -10,6 +10,8 @@ Auto Shift is a real-time pitch tracking and correction effect made for **monoph
 - **MIDI notes** - coming from another track (MIDI sidechain), which could be helpgul for harmonies and pitch control.
 
 ### 1.1.1 Usage 
+
+![Alt text](../images/Manual/01_Audio_Effects/01.01_Auto_Shift/AutoShiftInputSectionL12.png)
 
 Auto Shift is categorized in the new version of Live as an **Audio Effect**. It can work best when added to an audio track that contains a clear pitched signal (voice, monophonic synth lead, bass, etc.).
 
@@ -20,7 +22,7 @@ Lastly, set **Dry/Wet** to balance natural vs corrected sound.
 
 ### 1.1.2 Input - Pitch Tracking and Latency
 
-![Alt text](..images/Manual/01_Audio_Effects/01.01_Auto_Shift/AutoShiftInputSectionL12.png)
+![Alt text](../images/Manual/01_Audio_Effects/01.01_Auto_Shift/AutoShiftInputSectionL12.png)
 
 The Input section is where you optimize tracking before you touch “tuning” parameters.
 
