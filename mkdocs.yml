@@ -1,0 +1,28 @@
+site_name: Live 
+dev_addr: 127.0.0.1:9001
+theme:
+  name: material
+  logo: images/abletonlive.svg
+  favicon: images/abletonlive.svg
+  palette:
+    scheme: black-white
+    primary: custom
+    accent: custom
+  font: false
+  features:
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.top
+    - toc.integrated
+nav:
+  - Home: index.md
+  - Stem Separation: stem-separation.md
+  - Auto Shift: auto-shift.md
+  - Bug Report: bug-report.md
+
+
+extra_css:
+  - stylesheets/extra.css
