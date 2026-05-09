@@ -6,7 +6,7 @@
 
 ## 1. Auto Shift
 
-![Alt text](images/0001_-_auto_shift_new.jpg)
+![Alt text](../images/0001_-_auto_shift_new.jpg)
 
 Auto Shift is a real-time pitch tracking and correction effect made for **monophonic audio** (with a inclination towards vocal recordings and samples). It can receive pitch information in two main ways:
 
