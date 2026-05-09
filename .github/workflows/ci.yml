@@ -1,4 +1,4 @@
-name: Deploy MkDocs site to GitHub Pages
+name: Deploy MkDocs to GitHub Pages
 
 on:
   push:
@@ -33,7 +33,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./site
-
+  
   deploy:
     if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
