@@ -19,10 +19,12 @@ theme:
     - toc.integrated
 nav:
   - Home: index.md
-  - Stem Separation: stem-separation.md
-  - Auto Shift: auto-shift.md
-  - Bug Report: bug-report.md
-
+  - Manual:
+    - Overview: Manual/00_manual.md
+    - Audio Effects: Manual/01_audio_effects.md
+  - Release Notes:
+    - Overview: Release_Note/00_release_notes.md
+    - Live 12: Release_Note/01_Live_12.md
 
 extra_css:
   - stylesheets/extra.css

@@ -1,10 +1,10 @@
-# Auto Shift
+# Live Audio Effect Reference
 
 **Released:** October 08, 2024
 
-**Edition:** Live 12
+**Edition:** Live 12.1
 
----
+## 1. Auto Shift
 
 ![Alt text](images/0001_-_auto_shift_new.jpg)
 
@@ -130,3 +130,10 @@ With MIDI input enabled, Auto Shift only produces sound while it receives MIDI n
 |---|---|
 | **12.1.5** | In Auto Shift, MPE pitch bend now uses a 48 semitones range. Fixed a bug that caused phasing artifacts in Auto Shift when MIDI Input was turned off while notes were still playing. Mapping the Scale and Root parameters to a Rack’s Macro Controls now works as expected in the Scale, Arpeggiator, and Auto Shift devices. |
 | **12.1** | First release of Auto Shift |
+
+## 2. Chorus Ensemble
+
+Chorus-Ensemble is time modulation device developed inside Live 12 and earlier versions. It serves as a chorus effect with multiple modes(**Chorus**, **Ensemble**,**Vibrato**) each tailoring to different use. With the latest update, the **Clasic** mode has been renamed to **Chorus** to better reflect it resulting effect. The updated **Chorus** mode features two new parameters with which you can interact:
+
+- **Time** - you can now select the time between the delay lines as opposed to having them scaled dynamically per tap. This setting also included the previous behaviour by selecting **Auto**.
+- **Tap** - is a parameter which allows you to switch between a one or two tap delay.
