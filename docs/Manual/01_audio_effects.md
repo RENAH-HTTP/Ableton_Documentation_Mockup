@@ -38,15 +38,13 @@ The Input Gain, with the range bwetween -24 to +24 dB trims the signal incoming 
 
 The Quantizer setting aims to correct incoming audio to the notes of a defined scale.
 
-| Control | What it does |
-|---|---|
-| **Correction Strength** | How strongly the audio is corrected to reach the target note |
-| **Smooth** | Changes the interpolation time for more less artifacts - rannging from 0ms to 200ms|
-| **Root & Scale** | Changes the target musical scale the device should reach |
-| **Included Notes** | Lets you build a custom scale by enabling/disabling notes |
-| **Pitch Shift (scale degrees)** | Transposes the sound *after* correction, while maintaining the target key |
+This section contains multiple control which change different aspects of the quantization process. With Correction Strenght you can adjust how strongly the audio is corrected to reach the target note. To combat the corrections made, Smooth, which has a range of 0ms t0 200ms, changes the interpolation time for less artifacts.
 
-If **Use Current Scale** is enabled in the device title bar, Auto Shift will follow the active clip scale selected in the session (“scale awareness”), and the scale’s notes will be highlighted.
+In the audio device, there is a built in setting which changes the target musical scale. With Root & Scale you tell the device which target it should reach. You can use the parameters Use Current Scale which will prompt Auto Shift to follow the active clip scale selected in the session (“scale awareness”). Aftewards, the scale’s notes will be highlighted.
+
+If you want to build a custom scale, you can use Included Notes. You to enable and disable note and make your personalized scale. 
+
+For further pitch adjustment, Pitch Shift transposes the sound after correction, while maintaining the target key.
 
 ### 1.1.4 MIDI Mode (Pitch Correction from Notes)
 
