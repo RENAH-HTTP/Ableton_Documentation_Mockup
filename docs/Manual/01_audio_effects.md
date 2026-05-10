@@ -48,54 +48,53 @@ For further pitch adjustment, Pitch Shift transposes the sound after correction,
 
 ### 1.1.4 MIDI Mode (Pitch Correction from Notes)
 
-When you enable **MIDI In**, Auto Shift switches to using incoming MIDI data to determine the target pitch instead of using the scale established in the Quantizer.
+![Alt text](../images/Manual/01_Audio_Effects/01.01_Auto_Shift/AutoShiftMIDIInputL12.png)
 
-- Choose the **External Source** (the MIDI track sending notes)
-- Choose the **Tapping Point** (Pre FX / Post FX / Post Mixer)
-- Choose a voice mode:
-	- **Mono**: one note at a time (includes **Glide** for sliding between note values)
-	- **Poly**: up to **8 voices** (2 / 4 / 8) for harmonization
+When you enable MIDI In, Auto Shift switches to using incoming MIDI data to determine the target pitch instead of using the scale established in the Quantizer.
 
-**Important**: If MIDI Input is to be enabled, Auto Shift will only output audio when it is receiving MIDI notes.
+You can select in this menu the **External Source** if you want to select and alternate source MIDI. The MIDI Mode includes the setting **Tapping Point**, where you can select if you want to introduce the MIDI signal either Pre FX, Post FX or Post Mixer. You can select Post FX or Post Mixer to include, for example, any audio effects which you might have on your desired MIDI input track.
+
+Choose between two voice modes Mono and Poly to have access to one or up to 8 voices. The Mono mode provides a Glides setting which can be selected for sliding between note values. Polt Mode provides either 2, 4 or 8 voices for harmonization. 
+
+Enabling MIDI Input causes Auto Shift to only output audio when it is receiving MIDI notes.
+
+![Alt text](../images/Manual/01_Audio_Effects/01.01_Auto_Shift/AutoShiftMIDITabL12.png)
+
+The keyboard at the top shows which MIDI note is currently being received. The keys light up in real time while notes are being updated. 
+
+The MIDI Mode features an Envelope section which includes Attack and Release parameteres which are visualized in the box to their right. Turning on Note Latch will make the last held MIDI note stay active even after the key has been released. 
+
+The Pitch Bend paramenter, abreviated PB, select by how much the pitch will is altered when using the Pitch Bend Wheel on your controller of choice. 
+
+At the bottom of the menu, you can select up to four sources of modulation as input from the MIDI track of choice. Auto Shift is reaching to the external track and pulling the MIDI data to drive the mod writing. 
 
 ### 1.1.5 LFO Tab (Modulation)
 
-Auto Shift includes an LFO that can modulate the following values: **Pitch**, **Formant**, **Volume**, and **Pan**.
+![Alt text](../images/Manual/01_Audio_Effects/01.01_Auto_Shift/AutoShiftLFOTabL12.png)
 
-- **Reset** can retrigger the LFO at onsets (pitch detection onsets in Quantizer mode, or note onsets in MIDI mode)
-- **Delay / Attack** shapes how the LFO fades in and fades out
-- **Waveform** offers multiple shapes (including stepped, sample and hold and random variants)
-- **Rate** can run free or sync to tempo
+Auto Shift includes an LFO that can modulate the following values: Pitch, Formant, Volume, and Pan.
 
-The LFO will affects the incoming signal whether or not pitch correction is enabled.
+Opt for the Reset parameters if the you want to retrigger the LFO at onsets. The onset can be either pitch detection in Quantizer mode, or notes in MIDI mode. The Delay and Attack parameters shape how the LFO fades in and fades out.
+
+Custom waveforms are accessible in by selecting Waveform and selecting one of the multiple waveforms, which include stepped, sample and hold and random variants.Optional, the Rate can run free or sync to tempo
+
+The LFO affects the incoming signal even pitch correction is not on.
 
 ### 1.1.6 Pitch and Formant Shifting
 
-You can use pitch and formant controls for “tuned” effects *or* as a creative pitch/formant shifter.
+You can use pitch and formant controls for “tuned” effects or as a creative pitch/formant shifter.
 
-| Control | What it does |
-|---|---|
-| **Pitch Shift (semitones & cents)** | Transposes the signal with the option **fine** in order to tune it in cents|
-| **Formant Shift (-100% to 100%)** | Changes tonal and timbral character without changing perceived pitch |
-| **Formant Follow** | Links formant movement to pitch movement for more natural results |
+You can transpose the signal with Pitch Shift in semitones & cents. This parameter has the option fine in order to tune it in cents. Formant Shift with value between -100% and 100% changes tonal and timbral character without changing perceived pitch.
+
+Developed to achieve a natural sound, Formant Follow links formant movement to pitch movement for more natural results.
 
 ### 1.1.7 Vibrato
 
-Vibrato is useful for subtle motion or “harder” pitch effects.
+Vibrato is and option useful subtle motion in the signal or harder pitch effects. 
 
-- **Amount**: 0–200 cents
-- **Rate**: 2–15 Hz
-- **Fade In**: how quickly the vibrator reaches it target value
-- **Natural Vibrato** adds small variations for a more organic feel
+It has an Amount option which can alter the signal by a maximum of 200 cents. You can adjust the Rate of the vibrato by a minimum of 2Hz or a maximum of 15Hz. Choosing a Fade In time selects how quickly the vibrato reaches its target value. Natural Vibrato offer the same effect but with small variations for a more organic feel. 
 
-The **Dry/Wet** control also lives here. At **50%**, you can create a simple doubler-style blend between dry and processed signals.
-
-### 1.1.8 Changelog
-
-| Version | Change |
-|---|---|
-| **12.1.5** | In Auto Shift, MPE pitch bend now uses a 48 semitones range. Fixed a bug that caused phasing artifacts in Auto Shift when MIDI Input was turned off while notes were still playing. Mapping the Scale and Root parameters to a Rack’s Macro Controls now works as expected in the Scale, Arpeggiator, and Auto Shift devices. |
-| **12.1** | First release of Auto Shift |
+The Dry/Wet control also lives here. At 50%, you can create a simple doubler-style blend between dry and processed signals.
 
 ## 1.2 Chorus Ensemble
 
