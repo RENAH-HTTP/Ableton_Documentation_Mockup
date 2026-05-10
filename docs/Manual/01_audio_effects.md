@@ -4,19 +4,17 @@
 
 ![Alt text](../images/Manual/01_Audio_Effects/01.01_Auto_Shift/01_-_auto_shift_new.jpg)
 
-Auto Shift is a real-time pitch tracking and correction effect made for **monophonic audio** (with a inclination towards vocal recordings and samples). It can receive pitch information in two main ways:
-
-- **Scales** - you define in the device (Quantizer)
-- **MIDI notes** - coming from another track (MIDI sidechain), which could be helpgul for harmonies and pitch control.
+Auto Shift is a real-time pitch tracking and correction effect designed for monophonic audio, particularly, vocal recordings and samples. It supports two correction modes: Quantizer, which corrects pitch against a scale defined within the device, and MIDI, which receives pitch information from an external MIDI track via sidechain. It is useful for harmonies and real-time pitch control.
 
 ### 1.1.1 Usage 
 
-Auto Shift is categorized in the new version of Live as an **Audio Effect**. It can work best when added to an audio track that contains a clear pitched signal (voice, monophonic synth lead, bass, etc.).
+Auto Shift is an Audio Effect. It works best on audio tracks with a clear pitched signal — voice, monophonic synth, or bass.
 
-Drag **Auto Shift** onto an audio track. In the **Input** section, you can choose a **Pitch Range** (High / Mid / Bass) that matches the source. Next, you can use one of the correction modes:
-- **Quantizer**: pick a Root + Scale (or select included notes), then adjust **Correction Strength**.
-- **MIDI**: enable **MIDI In**, choose a MIDI track as the source, and play notes to control the correction.
-Lastly, set **Dry/Wet** to balance natural vs corrected sound.
+Drag Auto Shift onto an audio track. In the Input section, select the Pitch Range (High, Mid, or Bass) that matches your source material.
+
+The Quantizer setting allows you to select a Root and Scale, or configure individual notes using Included Notes. Use Correction Strength to set how aggressively the pitch is corrected. In the MIDI tab you can enable MIDI In and select a MIDI track as the source. Incoming notes control the pitch correction target in real time.
+
+Use Dry/Wet to blend the corrected signal with the original input.
 
 ### 1.1.2 Input - Pitch Tracking and Latency
 
@@ -66,6 +64,8 @@ The MIDI Mode features an Envelope section which includes Attack and Release par
 
 The Pitch Bend paramenter, abreviated PB, select by how much the pitch will is altered when using the Pitch Bend Wheel on your controller of choice. 
 
+![Alt text](../images/Manual/01_Audio_Effects/01.01_Auto_Shift/AutoShiftMIDITrackL12.png)
+
 At the bottom of the menu, you can select up to four sources of modulation as input from the MIDI track of choice. Auto Shift is reaching to the external track and pulling the MIDI data to drive the mod writing. 
 
 ### 1.1.5 LFO Tab (Modulation)
@@ -82,6 +82,8 @@ The LFO affects the incoming signal even pitch correction is not on.
 
 ### 1.1.6 Pitch and Formant Shifting
 
+![Alt text](../images/Manual/01_Audio_Effects/01.01_Auto_Shift/AutoShiftPitchSectionL12.png)
+
 You can use pitch and formant controls for “tuned” effects or as a creative pitch/formant shifter.
 
 You can transpose the signal with Pitch Shift in semitones & cents. This parameter has the option fine in order to tune it in cents. Formant Shift with value between -100% and 100% changes tonal and timbral character without changing perceived pitch.
@@ -89,6 +91,8 @@ You can transpose the signal with Pitch Shift in semitones & cents. This paramet
 Developed to achieve a natural sound, Formant Follow links formant movement to pitch movement for more natural results.
 
 ### 1.1.7 Vibrato
+
+![Alt text](../images/Manual/01_Audio_Effects/01.01_Auto_Shift/AutoShiftVibratoSectionL12.png)
 
 Vibrato is and option useful subtle motion in the signal or harder pitch effects. 
 
