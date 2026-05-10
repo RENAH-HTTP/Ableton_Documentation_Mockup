@@ -11,8 +11,6 @@ Auto Shift is a real-time pitch tracking and correction effect made for **monoph
 
 ### 1.1.1 Usage 
 
-![Alt text](../images/Manual/01_Audio_Effects/01.01_Auto_Shift/AutoShiftInputSectionL12.png)
-
 Auto Shift is categorized in the new version of Live as an **Audio Effect**. It can work best when added to an audio track that contains a clear pitched signal (voice, monophonic synth lead, bass, etc.).
 
 Drag **Auto Shift** onto an audio track. In the **Input** section, you can choose a **Pitch Range** (High / Mid / Bass) that matches the source. Next, you can use one of the correction modes:
@@ -24,17 +22,21 @@ Lastly, set **Dry/Wet** to balance natural vs corrected sound.
 
 ![Alt text](../images/Manual/01_Audio_Effects/01.01_Auto_Shift/AutoShiftInputSectionL12.png)
 
-The Input section is where you optimize tracking before you touch “tuning” parameters.
+The Input section is where you optimize tracking before you touch “tuning” parameters. The Input Pitch shows you the detected notes in letter notation and cents. 
 
-- **Input Pitch** shows the detected notes in letter notation and cents. 
-- **Pitch Range (High / Mid / Bass)** selects the expected input range, making the detection more reliable.
-- **Input Gain (-24 to +24 dB)** trims the signal incoming into the detector.
-- **Latency** is displayed in milliseconds.
-- **Live Mode** (toggle in the title bar) reduces latency for performance, but can introduce gltiches depending on how fast the pitch changes
+![Alt text](../images/Manual/01_Audio_Effects/01.01_Auto_Shift/AutoShiftInputLEDL12.png)
+
+The Pitch Range (High, Mid or Bass) selects the expected input range, making the detection more reliable - you can use High for signals in a high frequency range, Mid for signals in a mid frequency range and, finally, Bass for signal in a lower frequency range. 
+
+![Alt text](../images/Manual/01_Audio_Effects/01.01_Auto_Shift/AutoShiftLiveModeL12.png)
+
+The Input Gain, with the range bwetween -24 to +24 dB trims the signal incoming into the detector for more accurate detection. At the bottom, Latency is displaying in milliseconds the time difference between input and output of the audio device. For live performance scenarios, the Live Mode, which can be toggled in the title bar, reduces latency for performance. This setting can introduce gltiches depending on the speed of the pitch change.
 
 ### 1.1.3 Quantizer Mode - Scale-Based Correction
 
-Quantizer corrects incoming audio to the notes of a defined scale.
+![Alt text](../images/Manual/01_Audio_Effects/01.01_Auto_Shift/AutoShiftQuantizerL12.png)
+
+The Quantizer setting aims to correct incoming audio to the notes of a defined scale.
 
 | Control | What it does |
 |---|---|
