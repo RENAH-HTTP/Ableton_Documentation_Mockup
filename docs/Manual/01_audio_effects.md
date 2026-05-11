@@ -142,7 +142,7 @@ Made to add more variation, Pitch Decay changes the pitch of the repeats gradual
 
 The single-band Filter changes the spectrum of the sound by eliminating desired frequency. Underneath the graph, it posses a target value and a  quality factor. 
 
-You can turn in on and off by toggling the filter button underneath the graph. 
+You can turn in on and off by toggling the Filter button underneath the graph. 
 
 ### 1.2.7 Mix, Volume & Decay
 
