@@ -151,5 +151,3 @@ The Beat repeat effect contains at the bottom right corner a Volume control, a D
 The Beat Repeat effect allows 3 output modes: Mix combines the original signal and the repeated signal, Ins cuts the original signal when the repeat cycle takes place and resumes the original signal when the repeat cycle is done. Finally, Gate, which is most usefull when house on a return track, passes only the repetitions and never the original signal
 
 The Volume control in decibels the loudness of the repeated signal, while the Decay control, gradually fade out the signal. Setting the Decay value to "0%" will keep the Volume unaltered, while "100%" will allow less repeats wih a lower volume.
-
-
