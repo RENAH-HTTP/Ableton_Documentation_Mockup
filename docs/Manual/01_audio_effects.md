@@ -100,9 +100,36 @@ It has an Amount option which can alter the signal by a maximum of 200 cents. Yo
 
 The Dry/Wet control also lives here. At 50%, you can create a simple doubler-style blend between dry and processed signals.
 
-## 1.2 Chorus Ensemble
+## 1.2 Beat Repeat
 
-Chorus-Ensemble is time modulation device developed inside Live 12 and earlier versions. It serves as a chorus effect with multiple modes(**Chorus**, **Ensemble**,**Vibrato**) each tailoring to different use. With the latest update, the **Clasic** mode has been renamed to **Chorus** to better reflect it resulting effect. The updated **Chorus** mode features two new parameters with which you can interact:
+![Alt text](../images/Manual/01_Audio_Effects/01.02_Beat_Repeat/BeatRepeatL12.png)
 
-- **Time** - you can now select the time between the delay lines as opposed to having them scaled dynamically per tap. This setting also included the previous behaviour by selecting **Auto**.
-- **Tap** - is a parameter which allows you to switch between a one or two tap delay.
+Beat Repeat is an audio effect which triggers the repeat of the incoming signal in a controlled or randomized manner. 
+
+### 1.2.1 Usage
+
+You can use this effect by navigating to "Library" and then selecting "Audio Effects" tab on the right side of you screen. Here you can find the effect and drag and drop directly into your desired audio track with its inital setting.
+
+### 1.2.2 Interval & Offset
+
+The Interval control allows you to select at which time interval the effect should take place. By setting the control, for example, to "1 Bar" your desired repeat effect will take place every 1 Bar of your selected signal. 
+
+You can offset the starting point by using the Offset control using the Offset control. The values of the Offset range from "0" to "15/16" musical notes. The Offset delay the starting point by the value which you select. For example, having an Interval of "1 Bar" and an Offset of "1/16", your Beat Repeat effect will trigger on the second sixteenth of the bar. 
+
+Optionally, by toggling the Repeat button, you can trigger your effect on the spot, allowing for manual control over the duration of th repeat. By using Repeat, the audio effect will continue until the option is toggled off. 
+
+### 1.2.3 Chance & Gate
+
+The Chance control, with values between "0.00%" and "100.00", prompts you to select the probability of triggering the repeating effect. By setting "100%", the effect will trigger everytime, while setting it to "0%" will not trigger the effect at all. 
+
+The Gate parameter controls the total length of all repetitions in sixteenth notes. If set to "4/16" the repetitions will last for that amount of time. 
+
+### 1.2.4 Grid & Variation
+
+The Grid setting allows you to control the divisions of the repeat effect. If you select "1/16", your total lenght of your repetitions selected in the Gate parameter will be divided in sixteenth notes. 
+
+Variation randomizes the Grid size on each repeat. Set Variation to "0" to lock the Grid value, or increase it to allow wider deviations from the set Grid size. At lower values, repeats stay close to the selected Grid value. At higher values, the Grid size varies more broadly.
+
+### Pitch & Decay
+
+
