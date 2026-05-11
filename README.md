@@ -2,6 +2,8 @@
 
 **Live site: [https://renah-http.github.io/Documentation_Example/](https://renah-http.github.io/Documentation_Example/)**
 
+> If you don't see the latest content, refresh the page (Ctrl+Shift+R / Cmd+Shift+R).
+
 ---
 
 A documentation mockup for Ableton Live, built with [MkDocs](https://www.mkdocs.org/) and the [Material theme](https://squidfunk.github.io/mkdocs-material/). Created for interview purposes to demonstrate structure, tone, and how I would approach writing documentation for software workflows, audio effects, and release notes.
