@@ -130,6 +130,26 @@ The Grid setting allows you to control the divisions of the repeat effect. If yo
 
 Variation randomizes the Grid size on each repeat. Set Variation to "0" to lock the Grid value, or increase it to allow wider deviations from the set Grid size. At lower values, repeats stay close to the selected Grid value. At higher values, the Grid size varies more broadly.
 
+Variation has several modes, available below the control: Trigger randomizes every repeat cycle. Everytime the Beat Repeat effects takes place, a new grid size is overwritten. By selecting note values, 1/4, 1/8 or 1/16, you randomize the Grid at fixed time intervals (i.e. every 1/4 note, the Grid value is changed). Auto randomizes the Grid value after each individual repeat of the signal instead of the whole repeat cycle.
+
 ### Pitch & Decay
+
+In the Beat Effect you have the possibility to alter the pitch of individual Repeats. By altering the Pitch value, you can transpose the entire signal by a specific semitone amount. 
+
+Made to add more variation, Pitch Decay changes the pitch of the repeats gradually by lowering the semitone value and cents value. This setting works independently from Pitch. 
+
+### Filter
+
+The single-band Filter changes the spectrum of the sound by eliminating desired frequency. Underneath the graph, it posses a target value and a  quality factor. 
+
+You can turn in on and off by toggling the filter button underneath the graph. 
+
+### Mix, Volume & Decay
+
+The Beat repeat effect contains at the bottom right corner a Volume control, a Decay control and 3 different mix options. 
+
+The Beat Repeat effect allows 3 output modes: Mix combines the original signal and the repeated signal, Ins cuts the original signal when the repeat cycle takes place and resumes the original signal when the repeat cycle is done. Finally, Gate, which is most usefull when house on a return track, passes only the repetitions and never the original signal
+
+The Volume control in decibels the loudness of the repeated signal, while the Decay control, gradually fade out the signal. Setting the Decay value to "0%" will keep the Volume unaltered, while "100%" will allow less repeats wih a lower volume.
 
 
