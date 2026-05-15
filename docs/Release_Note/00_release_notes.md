@@ -1,5 +1,16 @@
 # Live 12 Release Notes
 
-This document includes release notes for Ableton Live 12. This document describes the list of features added and updated in Ableton Live 12 across all versions of Live 12. All the sections are categorized by the version number of Live 12, listing changes to devices, instruments, browser, MIDI, control surface, and other aspects.
+> **Note:** This is a mock-up release note created as part of a documentation example project. I wrote this to demonstrate the structure, tone, and formatting conventions used in professional product release notes tailored to Ableton. 
 
-Release notes provided in this document are targeted to Live 12 users migrating from a previous version of Live, as well as to new users interested in knowing about features of Live 12. For more details and updates, please visit the Ableton website at ableton.com.
+## About This Document
+
+This document includes mockup release notes for Ableton Live 12.4. 
+
+## How to Use This Document
+
+- Use the navigation on the left to jump to a specific version.
+- Each version section lists new features, improvements, and bug fixes.
+- Screenshots and diagrams are included where relevant to help illustrate changes.
+
+## Versions Covered
+
