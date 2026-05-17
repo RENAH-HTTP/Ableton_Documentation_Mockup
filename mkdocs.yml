@@ -27,5 +27,7 @@ nav:
       - 1. Live 12: Release_Note/01_Live_12.md
   - Old Examples:
       - 0. Stem Separation: Old_Versions/00_stem_separation_old.md
+  - Git & GitHub:
+      - 0. Git Learning Notes: Git/Git_Learning_Notes.md
 extra_css:
   - stylesheets/extra.css
