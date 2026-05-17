@@ -1,6 +1,6 @@
 # Live Documentation (Mockup)
 
-**Live site: [https://renah-http.github.io/Documentation_Example/](https://renah-http.github.io/Documentation_Example/)**
+**Live site: [https://renah-http.github.io/Ableton_Documentation_Mockup/](https://renah-http.github.io/Ableton_Documentation_Mockup/)**
 
 > If you don't see the latest content, refresh the page (Ctrl+Shift+R / Cmd+Shift+R).
 
