@@ -14,3 +14,5 @@ This document includes mockup release notes for Ableton Live 12.4.
 
 ## Versions Covered
 
+Live 12.4 
+Live 12.3 - partially

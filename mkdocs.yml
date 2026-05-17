@@ -18,16 +18,33 @@ theme:
     - navigation.top
     - toc.integrated
 nav:
-  - Home: index.md
+  - About: index.md
   - Manual:
-      - 0. Overview: Manual/00_manual.md
+      - Overview: Manual/00_manual.md
       - 1. Live Audio Effect Reference: Manual/01_audio_effects.md
   - Release Notes:
-      - 0. Overview: Release_Note/00_release_notes.md
+      - Overview: Release_Note/00_release_notes.md
       - 1. Live 12: Release_Note/01_Live_12.md
-  - Old Examples:
-      - 0. Stem Separation: Old_Versions/00_stem_separation_old.md
+  - Old Versions / First Practice:
+      - Stem Separation: Old_Versions/00_stem_separation_old.md
   - Git & GitHub:
       - Git Learning Notes: Git/Git_Learning_Notes.md
+  - Journal:
+      - Monday, 18 May: Journal/18_May.md
+      - Sunday, 17 May: Journal/17_May.md
+      - Saturday, 16 May: Journal/16_May.md
+      - Friday, 15 May: Journal/15_May.md
+      - Thursday, 14 May: Journal/14_May.md
+      - Wednesday, 13 May: Journal/13_May.md
+      - Tuesday, 12 May: Journal/12_May.md
+      - Monday, 11 May: Journal/11_May.md
+      - Sunday, 10 May: Journal/10_May.md
+      - Sat–Sun, 9–10 May: Journal/09-10_May.md
+  - Extracted Rules:
+      - Rules: Extracted_Rules/Extracted_Rules.md
+      - Update Log: Extracted_Rules/Update_Log.md
+  - Questions & Notes:
+      - Questions: Questions & Notes/Questions.md
+      - Notes: Questions & Notes/Notes.md
 extra_css:
   - stylesheets/extra.css
