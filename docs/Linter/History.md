@@ -1,220 +1,293 @@
 # History
 
+**Total entries:** 45 &nbsp;·&nbsp; **Average score:** 9.18 / 10
 
-============================================================
-[2026-05-09 19:23] Free — Free entry — write about any Ableton feature
-Score: 9/10  |  Words: 58
-────────────────────────────────────────────────────────────
-SUBMISSION:
+---
+
+### 2026-05-09 19:23 — Free
+*Free entry — write about any Ableton feature*
+
+**Score:** 9/10 &nbsp;·&nbsp; **Words:** 58
+
+**Submission:**
+
 Chorus-Ensemble is time modulation device developed inside Live 12 and earlier versions. It serves as a chorus effect with multiple modes(**Chorus**, **Ensemble**,**Vibrato**) each tailoring to different use. With the latest update, the **Clasic** mode has been renamed to **Chorus** to better reflect it resulting effect. The updated **Chorus** mode features two new parameters with which you can interact:
 
-ISSUES:
-  ⚠ [Conciseness] 58 words — aim for 50 or fewer. Cut filler and redundant context.
-============================================================
+**Issues:**
 
-============================================================
-[2026-05-09 19:27] Free — Free entry — write about any Ableton feature
-Score: 7/10  |  Words: 107
-────────────────────────────────────────────────────────────
-SUBMISSION:
+- ⚠ **[Conciseness]** 58 words — aim for 50 or fewer. Cut filler and redundant context.
+
+---
+
+### 2026-05-09 19:27 — Free
+*Free entry — write about any Ableton feature*
+
+**Score:** 7/10 &nbsp;·&nbsp; **Words:** 107
+
+**Submission:**
+
 Chorus-Ensemble is time modulation device developed inside Live 12 and earlier versions. It serves as a chorus effect with multiple modes(**Chorus**, **Ensemble**,**Vibrato**) each tailoring to different use. With the latest update, the **Clasic** mode has been renamed to **Chorus** to better reflect it resulting effect. The updated **Chorus** mode features two new parameters with which you can interact:
- **Time** - you can now select the time between the delay lines as opposed to having them scaled dynamically per tap. This setting also included the previous behaviour by selecting **Auto**.
-- **Tap** - is a parameter which allows you to switch between a one or two tap delay.
 
-ISSUES:
-  ✗ [American English] "behaviour" → use "behavior"
-  ⚠ [Conciseness] 107 words — aim for 50 or fewer. Cut filler and redundant context.
-============================================================
-
-============================================================
-[2026-05-09 19:45] Free — Free entry — write about any Ableton feature
-Score: 9/10  |  Words: 108
-────────────────────────────────────────────────────────────
-SUBMISSION:
-Chorus-Ensemble is time modulation device developed inside Live 12 and earlier versions. It serves as a chorus effect with multiple modes(**Chorus**, **Ensemble**,**Vibrato**) each tailoring to different use. With the latest update, the **Clasic** mode has been renamed to **Chorus** to better reflect it resulting effect. The updated **Chorus** mode features two new parameters with which you can interact:
 - **Time** - you can now select the time between the delay lines as opposed to having them scaled dynamically per tap. This setting also included the previous behaviour by selecting **Auto**.
 - **Tap** - is a parameter which allows you to switch between a one or two tap delay.
 
-ISSUES:
-  ✗ [American English] "behaviour" → use "behavior"
-============================================================
+**Issues:**
 
-============================================================
-[2026-05-10 01:02] Manual — Looper — basic recording workflow
-Score: 8/10  |  Words: 99
-────────────────────────────────────────────────────────────
-SUBMISSION:
-The Input section is where you optimize tracking before you touch “tuning” parameters.The Input Pitch shows you the detected notes in letter notation and cents. Pitch Range (High,  Mid or Bass) selects the expected input range, making the detection more reliable. It's adisable that you use High for signals in a high frequency range, Mid for signals in a mid frequency range and, finally, Bass for signal in a lower frequency range. Input Gain (-24 to +24 dB) helps to trim the signal incoming into the detector for more accurate detection. At the bottom, Latency is displayed in milliseconds.
+- ✗ **[American English]** "behaviour" → use "behavior"
+- ⚠ **[Conciseness]** 107 words — aim for 50 or fewer. Cut filler and redundant context.
 
-ISSUES:
-  ⚠ [Paragraph length] This paragraph has 5 sentences — keep paragraphs to 4 sentences or fewer. Break dense paragraphs into smaller ones.
-  ⚠ [Passive voice] Possible passive voice detected: "displayed". Rewrite with an active subject where possible.
-============================================================
+---
 
-============================================================
-[2026-05-10 01:02] Manual — Compressor — main controls
-Score: 10/10  |  Words: 71
-────────────────────────────────────────────────────────────
-SUBMISSION:
+### 2026-05-09 19:45 — Free
+*Free entry — write about any Ableton feature*
+
+**Score:** 9/10 &nbsp;·&nbsp; **Words:** 108
+
+**Submission:**
+
+Chorus-Ensemble is time modulation device developed inside Live 12 and earlier versions. It serves as a chorus effect with multiple modes(**Chorus**, **Ensemble**,**Vibrato**) each tailoring to different use. With the latest update, the **Clasic** mode has been renamed to **Chorus** to better reflect it resulting effect. The updated **Chorus** mode features two new parameters with which you can interact:
+
+- **Time** - you can now select the time between the delay lines as opposed to having them scaled dynamically per tap. This setting also included the previous behaviour by selecting **Auto**.
+- **Tap** - is a parameter which allows you to switch between a one or two tap delay.
+
+**Issues:**
+
+- ✗ **[American English]** "behaviour" → use "behavior"
+
+---
+
+### 2026-05-10 01:02 — Manual
+*Looper — basic recording workflow*
+
+**Score:** 8/10 &nbsp;·&nbsp; **Words:** 99
+
+**Submission:**
+
+The Input section is where you optimize tracking before you touch "tuning" parameters.The Input Pitch shows you the detected notes in letter notation and cents. Pitch Range (High,  Mid or Bass) selects the expected input range, making the detection more reliable. It's adisable that you use High for signals in a high frequency range, Mid for signals in a mid frequency range and, finally, Bass for signal in a lower frequency range. Input Gain (-24 to +24 dB) helps to trim the signal incoming into the detector for more accurate detection. At the bottom, Latency is displayed in milliseconds.
+
+**Issues:**
+
+- ⚠ **[Paragraph length]** This paragraph has 5 sentences — keep paragraphs to 4 sentences or fewer. Break dense paragraphs into smaller ones.
+- ⚠ **[Passive voice]** Possible passive voice detected: "displayed". Rewrite with an active subject where possible.
+
+---
+
+### 2026-05-10 01:02 — Manual
+*Compressor — main controls*
+
+**Score:** 10/10 &nbsp;·&nbsp; **Words:** 71
+
+**Submission:**
+
 You can set the frequency range for the audio input using one of the three Pitch Range toggles. This helps optimize the quality of the pitch estimation and correction. Use High for signals in a high frequency range, Mid for signals in a mid frequency range, and Bass for signals in a low frequency range. Each toggle has an LED that flashes when the incoming audio falls within its corresponding range.
 
-No issues found.
-============================================================
+*No issues found.*
 
-============================================================
-[2026-05-10 02:23] Manual — Looper — basic recording workflow
-Score: 8/10  |  Words: 73
-────────────────────────────────────────────────────────────
-SUBMISSION:
-The Input section is where you optimize tracking before you touch “tuning” parameters. The Input Pitch shows you the detected notes in letter notation and cents. Pitch Range (High,  Mid or Bass) selects the expected input range, making the detection more reliable. It's adisable that you use High for signals in a high frequency range, Mid for signals in a mid frequency range and, finally, Bass for signal in a lower frequency range.
+---
 
-ISSUES:
-  ✗ [No contractions] Contractions found: "it's". Use the full form (e.g. "don't" → "do not").
-  ⚠ [Double spaces] Double spaces detected. Use a single space between words and after punctuation.
-============================================================
+### 2026-05-10 02:23 — Manual
+*Looper — basic recording workflow*
 
-============================================================
-[2026-05-10 02:24] Manual — Looper — basic recording workflow
-Score: 9/10  |  Words: 74
-────────────────────────────────────────────────────────────
-SUBMISSION:
-The Input section is where you optimize tracking before you touch “tuning” parameters. The Input Pitch shows you the detected notes in letter notation and cents. Pitch Range (High, Mid or Bass) selects the expected input range, making the detection more reliable. It is adisable that you use High for signals in a high frequency range, Mid for signals in a mid frequency range and, finally, Bass for signal in a lower frequency range.
+**Score:** 8/10 &nbsp;·&nbsp; **Words:** 73
 
-ISSUES:
-  ⚠ [Weak sentence opener] "It is adisable that you use High for sig..." — avoid starting sentences with "There is/are" or "It is". Lead with the subject.
-============================================================
+**Submission:**
 
-============================================================
-[2026-05-10 02:26] Manual — Looper — basic recording workflow
-Score: 9/10  |  Words: 73
-────────────────────────────────────────────────────────────
-SUBMISSION:
-The Input section is where you optimize tracking before you touch “tuning” parameters. The Input Pitch shows you the detected notes in letter notation and cents. The Pitch Range (High, Mid or Bass) selects the expected input range, making the detection more reliable -  you can use High for signals in a high frequency range, Mid for signals in a mid frequency range and, finally, Bass for signal in a lower frequency range.
+The Input section is where you optimize tracking before you touch "tuning" parameters. The Input Pitch shows you the detected notes in letter notation and cents. Pitch Range (High,  Mid or Bass) selects the expected input range, making the detection more reliable. It's adisable that you use High for signals in a high frequency range, Mid for signals in a mid frequency range and, finally, Bass for signal in a lower frequency range.
 
-ISSUES:
-  ⚠ [Double spaces] Double spaces detected. Use a single space between words and after punctuation.
-============================================================
+**Issues:**
 
-============================================================
-[2026-05-10 02:28] Manual — Looper — basic recording workflow
-Score: 10/10  |  Words: 73
-────────────────────────────────────────────────────────────
-SUBMISSION:
-The Input section is where you optimize tracking before you touch “tuning” parameters. The Input Pitch shows you the detected notes in letter notation and cents. The Pitch Range (High, Mid or Bass) selects the expected input range, making the detection more reliable - you can use High for signals in a high frequency range, Mid for signals in a mid frequency range and, finally, Bass for signal in a lower frequency range.
+- ✗ **[No contractions]** Contractions found: "it's". Use the full form (e.g. "don't" → "do not").
+- ⚠ **[Double spaces]** Double spaces detected. Use a single space between words and after punctuation.
 
-No issues found.
-============================================================
+---
 
-============================================================
-[2026-05-10 02:32] Manual — Looper — basic recording workflow
-Score: 10/10  |  Words: 73
-────────────────────────────────────────────────────────────
-SUBMISSION:
+### 2026-05-10 02:24 — Manual
+*Looper — basic recording workflow*
+
+**Score:** 9/10 &nbsp;·&nbsp; **Words:** 74
+
+**Submission:**
+
+The Input section is where you optimize tracking before you touch "tuning" parameters. The Input Pitch shows you the detected notes in letter notation and cents. Pitch Range (High, Mid or Bass) selects the expected input range, making the detection more reliable. It is adisable that you use High for signals in a high frequency range, Mid for signals in a mid frequency range and, finally, Bass for signal in a lower frequency range.
+
+**Issues:**
+
+- ⚠ **[Weak sentence opener]** "It is adisable that you use High for sig..." — avoid starting sentences with "There is/are" or "It is". Lead with the subject.
+
+---
+
+### 2026-05-10 02:26 — Manual
+*Looper — basic recording workflow*
+
+**Score:** 9/10 &nbsp;·&nbsp; **Words:** 73
+
+**Submission:**
+
+The Input section is where you optimize tracking before you touch "tuning" parameters. The Input Pitch shows you the detected notes in letter notation and cents. The Pitch Range (High, Mid or Bass) selects the expected input range, making the detection more reliable -  you can use High for signals in a high frequency range, Mid for signals in a mid frequency range and, finally, Bass for signal in a lower frequency range.
+
+**Issues:**
+
+- ⚠ **[Double spaces]** Double spaces detected. Use a single space between words and after punctuation.
+
+---
+
+### 2026-05-10 02:28 — Manual
+*Looper — basic recording workflow*
+
+**Score:** 10/10 &nbsp;·&nbsp; **Words:** 73
+
+**Submission:**
+
+The Input section is where you optimize tracking before you touch "tuning" parameters. The Input Pitch shows you the detected notes in letter notation and cents. The Pitch Range (High, Mid or Bass) selects the expected input range, making the detection more reliable - you can use High for signals in a high frequency range, Mid for signals in a mid frequency range and, finally, Bass for signal in a lower frequency range.
+
+*No issues found.*
+
+---
+
+### 2026-05-10 02:32 — Manual
+*Looper — basic recording workflow*
+
+**Score:** 10/10 &nbsp;·&nbsp; **Words:** 73
+
+**Submission:**
+
 The Input Gain, with the range bwetween -24 to +24 dB trims the signal incoming into the detector for more accurate detection. At the bottom, Latency is displaying in milliseconds the time difference between input and output of the audio device. For live performance scenarios, the Live Mode, which can be toggled in the title bar, reduces latency for performance. This setting can introduce gltiches depending on the speed of the pitch change.
 
-No issues found.
-============================================================
+*No issues found.*
 
-============================================================
-[2026-05-10 02:53] Manual — Looper — basic recording workflow
-Score: 9/10  |  Words: 51
-────────────────────────────────────────────────────────────
-SUBMISSION:
+---
+
+### 2026-05-10 02:53 — Manual
+*Looper — basic recording workflow*
+
+**Score:** 9/10 &nbsp;·&nbsp; **Words:** 51
+
+**Submission:**
+
 This section contains multiple control which change different aspects of the quantization process. With Correction Strenght you can adjust how strongly the audio is corrected to reach the target note. To combat the corrections made, Smooth, which has a range of 0ms t0 200ms, changes the interpolation time for less artifacts.
 
-ISSUES:
-  ✗ [UI element capitalisation] "note" should be capitalised — it's a named UI element (e.g. "Note").
-============================================================
+**Issues:**
 
-============================================================
-[2026-05-10 03:04] Manual — Looper — basic recording workflow
-Score: 10/10  |  Words: 51
-────────────────────────────────────────────────────────────
-SUBMISSION:
+- ✗ **[UI element capitalisation]** "note" should be capitalised — it's a named UI element (e.g. "Note").
+
+---
+
+### 2026-05-10 03:04 — Manual
+*Looper — basic recording workflow*
+
+**Score:** 10/10 &nbsp;·&nbsp; **Words:** 51
+
+**Submission:**
+
 This section contains multiple control which change different aspects of the quantization process. With Correction Strenght you can adjust how strongly the audio is corrected to reach the target note. To combat the corrections made, Smooth, which has a range of 0ms t0 200ms, changes the interpolation time for less artifacts.
 
-ISSUES:
-  ✗ [UI element capitalisation] "note" should be capitalised — it's a named UI element (e.g. "Note").
-      ↳ DISPUTED: Note in this case should not be capitalised, since it is not a UI element of Auto Shift, in my opinion.
-============================================================
+**Issues:**
 
-============================================================
-[2026-05-10 03:07] Manual — Looper — basic recording workflow
-Score: 9/10  |  Words: 62
-────────────────────────────────────────────────────────────
-SUBMISSION:
-In the audio device, there is a built in setting which changes the target musical scale. With Root & Scale you tell the device which target it should reach. Moreover, if Use Current Scale is enabled in the device title bar, Auto Shift will follow the active clip scale selected in the session (“scale awareness”), and the scale’s notes will be highlighted.
+- ✗ **[UI element capitalisation]** "note" should be capitalised — it's a named UI element (e.g. "Note").
+    - ↳ **DISPUTED:** Note in this case should not be capitalised, since it is not a UI element of Auto Shift, in my opinion.
 
-ISSUES:
-  ⚠ [Passive voice] Possible passive voice detected: "enabled". Rewrite with an active subject where possible.
-============================================================
+---
 
-============================================================
-[2026-05-10 03:07] Manual — Looper — basic recording workflow
-Score: 10/10  |  Words: 61
-────────────────────────────────────────────────────────────
-SUBMISSION:
-In the audio device, there is a built in setting which changes the target musical scale. With Root & Scale you tell the device which target it should reach. You can use the parameters Use Current Scale which will prompt Auto Shift to follow the active clip scale selected in the session (“scale awareness”). Aftewards, the scale’s notes will be highlighted.
+### 2026-05-10 03:07 — Manual
+*Looper — basic recording workflow*
 
-No issues found.
-============================================================
+**Score:** 9/10 &nbsp;·&nbsp; **Words:** 62
 
-============================================================
-[2026-05-10 03:09] Manual — Compressor — main controls
-Score: 9/10  |  Words: 42
-────────────────────────────────────────────────────────────
-SUBMISSION:
-If you want to build a custom scale, you can use Included Notes. This allows you to enable and disable note and make your personalized scale. 
+**Submission:**
+
+In the audio device, there is a built in setting which changes the target musical scale. With Root & Scale you tell the device which target it should reach. Moreover, if Use Current Scale is enabled in the device title bar, Auto Shift will follow the active clip scale selected in the session ("scale awareness"), and the scale's notes will be highlighted.
+
+**Issues:**
+
+- ⚠ **[Passive voice]** Possible passive voice detected: "enabled". Rewrite with an active subject where possible.
+
+---
+
+### 2026-05-10 03:07 — Manual
+*Looper — basic recording workflow*
+
+**Score:** 10/10 &nbsp;·&nbsp; **Words:** 61
+
+**Submission:**
+
+In the audio device, there is a built in setting which changes the target musical scale. With Root & Scale you tell the device which target it should reach. You can use the parameters Use Current Scale which will prompt Auto Shift to follow the active clip scale selected in the session ("scale awareness"). Aftewards, the scale's notes will be highlighted.
+
+*No issues found.*
+
+---
+
+### 2026-05-10 03:09 — Manual
+*Compressor — main controls*
+
+**Score:** 9/10 &nbsp;·&nbsp; **Words:** 42
+
+**Submission:**
+
+If you want to build a custom scale, you can use Included Notes. This allows you to enable and disable note and make your personalized scale.
 
 For further pitch adjustment, Pitch Shift transposes the sound after correction, while maintaining the target key.
 
-ISSUES:
-  ✗ [UI element capitalisation] "note" should be capitalised — it's a named UI element (e.g. "Note").
-      ↳ DISPUTED: Again, note should not be capitalized here since it's not a UI element.
-  ✗ [UI element capitalisation] "correction" should be capitalised — it's a named UI element (e.g. "Correction").
-      ↳ DISPUTED: Same, correction is not a parameter in Auto Shift
-  ⚠ [Weak sentence opener] "This allows you to enable and disable no..." — avoid starting sentences with "There is/are" or "It is". Lead with the subject.
-============================================================
+**Issues:**
 
-============================================================
-[2026-05-10 18:55] Manual — Cabinet — companion to the Amp device
-Score: 10/10  |  Words: 75
-────────────────────────────────────────────────────────────
-SUBMISSION:
+- ✗ **[UI element capitalisation]** "note" should be capitalised — it's a named UI element (e.g. "Note").
+    - ↳ **DISPUTED:** Again, note should not be capitalized here since it's not a UI element.
+- ✗ **[UI element capitalisation]** "correction" should be capitalised — it's a named UI element (e.g. "Correction").
+    - ↳ **DISPUTED:** Same, correction is not a parameter in Auto Shift
+- ⚠ **[Weak sentence opener]** "This allows you to enable and disable no..." — avoid starting sentences with "There is/are" or "It is". Lead with the subject.
+
+---
+
+### 2026-05-10 18:55 — Manual
+*Cabinet — companion to the Amp device*
+
+**Score:** 10/10 &nbsp;·&nbsp; **Words:** 75
+
+**Submission:**
+
 You can select in this menu the **External Source** if you want to select and alternate source MIDI. The MIDI Mode includes the setting **Tapping Point**, where you can select the if you want to introduce the MIDI signal either Pre FX, Post FX or Post Mixer. You can select Post FX or Post Mixer to include, forx example, any audio effects which you might have on the track which you choose to sidechain from.
 
-No issues found.
-============================================================
+*No issues found.*
 
-============================================================
-[2026-05-10 19:00] Manual — Cabinet — companion to the Amp device
-Score: 10/10  |  Words: 71
-────────────────────────────────────────────────────────────
-SUBMISSION:
+---
+
+### 2026-05-10 19:00 — Manual
+*Cabinet — companion to the Amp device*
+
+**Score:** 10/10 &nbsp;·&nbsp; **Words:** 71
+
+**Submission:**
+
 You can select in this menu the **External Source** if you want to select and alternate source MIDI. The MIDI Mode includes the setting **Tapping Point**, where you can select if you want to introduce the MIDI signal either Pre FX, Post FX or Post Mixer. You can select Post FX or Post Mixer to include, for example, any audio effects which you might have on your desired MIDI input track.
 
-No issues found.
-============================================================
+*No issues found.*
 
-============================================================
-[2026-05-10 19:54] Manual — Cabinet — companion to the Amp device
-Score: 10/10  |  Words: 61
-────────────────────────────────────────────────────────────
-SUBMISSION:
+---
+
+### 2026-05-10 19:54 — Manual
+*Cabinet — companion to the Amp device*
+
+**Score:** 10/10 &nbsp;·&nbsp; **Words:** 61
+
+**Submission:**
+
 Choose between two voice modes Mono and Poly to have access to one or up to 8 voices. The Mono mode provides a Glides setting which can be selected for sliding between note values. Polt Mode provides either 2, 4 or 8 voices for harmonization.
 
 Enabling MIDI Input causes Auto Shift to only output audio when it is receiving MIDI notes.
 
-ISSUES:
-  ✗ [UI element capitalisation] "note" should be capitalised — it's a named UI element (e.g. "Note").
-      ↳ DISPUTED: Note shouldn't be capitalized here, it is not an UI element, but a musical note.
-============================================================
+**Issues:**
 
-============================================================
-[2026-05-10 19:56] Manual — Cabinet — companion to the Amp device
-Score: 9/10  |  Words: 137
-────────────────────────────────────────────────────────────
-SUBMISSION:
+- ✗ **[UI element capitalisation]** "note" should be capitalised — it's a named UI element (e.g. "Note").
+    - ↳ **DISPUTED:** Note shouldn't be capitalized here, it is not an UI element, but a musical note.
+
+---
+
+### 2026-05-10 19:56 — Manual
+*Cabinet — companion to the Amp device*
+
+**Score:** 9/10 &nbsp;·&nbsp; **Words:** 137
+
+**Submission:**
+
 At the bottom of the menu, you can select up to four sources of modulation as input from the MIDI track of choice. Auto Shift is reaching to the external track and pulling it's MIDI data and assing it to drive the mod writing.
 
 The Pitch Bend paramenter, abreviated PB, select by how much the pitch will is altered when using the Pitch Bend Wheel on your controller of choice.
@@ -223,48 +296,62 @@ The MIDI Mode features an Envelope section which inludes Attack and Release para
 
 The keyboard at the top shows which MIDI note is currently being received. The keys light up in real time while notes are being updated.
 
-ISSUES:
-  ✗ [UI element capitalisation] "note" should be capitalised — it's a named UI element (e.g. "Note").
-      ↳ DISPUTED: Note is not a UI Element
-  ✗ [No contractions] Contractions found: "it's". Use the full form (e.g. "don't" → "do not").
-============================================================
+**Issues:**
 
-============================================================
-[2026-05-10 23:06] Manual — Cabinet — companion to the Amp device
-Score: 10/10  |  Words: 41
-────────────────────────────────────────────────────────────
-SUBMISSION:
+- ✗ **[UI element capitalisation]** "note" should be capitalised — it's a named UI element (e.g. "Note").
+    - ↳ **DISPUTED:** Note is not a UI Element
+- ✗ **[No contractions]** Contractions found: "it's". Use the full form (e.g. "don't" → "do not").
+
+---
+
+### 2026-05-10 23:06 — Manual
+*Cabinet — companion to the Amp device*
+
+**Score:** 10/10 &nbsp;·&nbsp; **Words:** 41
+
+**Submission:**
+
 At the bottom of the menu, you can select up to four sources of modulation as input from the MIDI track of choice. Auto Shift is reaching to the external track and pulling the MIDI data to drive the mod writing.
 
-No issues found.
-============================================================
+*No issues found.*
 
-============================================================
-[2026-05-10 23:08] Manual — Cabinet — companion to the Amp device
-Score: 9/10  |  Words: 25
-────────────────────────────────────────────────────────────
-SUBMISSION:
+---
+
+### 2026-05-10 23:08 — Manual
+*Cabinet — companion to the Amp device*
+
+**Score:** 9/10 &nbsp;·&nbsp; **Words:** 25
+
+**Submission:**
+
 Custom waveforms can be accessed in by selecting Waveform and selecting one of the multiple waveforms, which include stepped, sample and hold and random variants.
 
-ISSUES:
-  ⚠ [Passive voice] Possible passive voice detected: "accessed". Rewrite with an active subject where possible.
-============================================================
+**Issues:**
 
-============================================================
-[2026-05-10 23:09] Manual — Cabinet — companion to the Amp device
-Score: 10/10  |  Words: 24
-────────────────────────────────────────────────────────────
-SUBMISSION:
+- ⚠ **[Passive voice]** Possible passive voice detected: "accessed". Rewrite with an active subject where possible.
+
+---
+
+### 2026-05-10 23:09 — Manual
+*Cabinet — companion to the Amp device*
+
+**Score:** 10/10 &nbsp;·&nbsp; **Words:** 24
+
+**Submission:**
+
 Custom waveforms are accessible in by selecting Waveform and selecting one of the multiple waveforms, which include stepped, sample and hold and random variants.
 
-No issues found.
-============================================================
+*No issues found.*
 
-============================================================
-[2026-05-10 23:12] Manual — Cabinet — companion to the Amp device
-Score: 7/10  |  Words: 106
-────────────────────────────────────────────────────────────
-SUBMISSION:
+---
+
+### 2026-05-10 23:12 — Manual
+*Cabinet — companion to the Amp device*
+
+**Score:** 7/10 &nbsp;·&nbsp; **Words:** 106
+
+**Submission:**
+
 Auto Shift includes an LFO that can modulate the following values: Pitch, Formant, Volume, and Pan.
 
 Opt for the Reset parameters if the you want to retrigger the LFO at onsets. The onset can be either pitch detection in Quantizer mode, or notes in MIDI mode. The Delay and Attack parameters shape how the LFO fades in and fades out.
@@ -273,268 +360,350 @@ Custom waveforms are accessible in by selecting Waveform and selecting one of th
 
 The LFO affects the incoming signal whether or not pitch correction is enabled.
 
-ISSUES:
-  ✗ [UI element capitalisation] "correction" should be capitalised — it's a named UI element (e.g. "Correction").
-  ✗ [UI element capitalisation] "pitch correction" should be capitalised — it's a named UI element (e.g. "Pitch Correction").
-  ⚠ [Passive voice] Possible passive voice detected: "enabled". Rewrite with an active subject where possible.
-============================================================
+**Issues:**
 
-============================================================
-[2026-05-10 23:15] Manual — Cabinet — companion to the Amp device
-Score: 10/10  |  Words: 12
-────────────────────────────────────────────────────────────
-SUBMISSION:
+- ✗ **[UI element capitalisation]** "correction" should be capitalised — it's a named UI element (e.g. "Correction").
+- ✗ **[UI element capitalisation]** "pitch correction" should be capitalised — it's a named UI element (e.g. "Pitch Correction").
+- ⚠ **[Passive voice]** Possible passive voice detected: "enabled". Rewrite with an active subject where possible.
+
+---
+
+### 2026-05-10 23:15 — Manual
+*Cabinet — companion to the Amp device*
+
+**Score:** 10/10 &nbsp;·&nbsp; **Words:** 12
+
+**Submission:**
+
 The LFO affects the incoming signal even pitch correction is not on.
 
-ISSUES:
-  ✗ [UI element capitalisation] "correction" should be capitalised — it's a named UI element (e.g. "Correction").
-      ↳ DISPUTED: Pitch Correction is not an UI Elemement
-  ✗ [UI element capitalisation] "pitch correction" should be capitalised — it's a named UI element (e.g. "Pitch Correction").
-      ↳ DISPUTED: Pitch Correction is not an UI Elemement
-============================================================
+**Issues:**
 
-============================================================
-[2026-05-10 23:26] Manual — Cabinet — companion to the Amp device
-Score: 9/10  |  Words: 77
-────────────────────────────────────────────────────────────
-SUBMISSION:
+- ✗ **[UI element capitalisation]** "correction" should be capitalised — it's a named UI element (e.g. "Correction").
+    - ↳ **DISPUTED:** Pitch Correction is not an UI Elemement
+- ✗ **[UI element capitalisation]** "pitch correction" should be capitalised — it's a named UI element (e.g. "Pitch Correction").
+    - ↳ **DISPUTED:** Pitch Correction is not an UI Elemement
+
+---
+
+### 2026-05-10 23:26 — Manual
+*Cabinet — companion to the Amp device*
+
+**Score:** 9/10 &nbsp;·&nbsp; **Words:** 77
+
+**Submission:**
+
 ibrato is and option useful subtle motion in the signal or harder pitch effects. It has an Amount option which can alter the signal by a maximum of 200 cents. You can adjust the Rate of the vibrato by a minimum of 2Hz or a maximum of 15Hz. Choosing a Fade In time selects how quickly the vibrato reaches its target value. Natural Vibrato offer the same effect but with small variations for a more organic feel.
 
-ISSUES:
-  ⚠ [Paragraph length] This paragraph has 5 sentences — keep paragraphs to 4 sentences or fewer. Break dense paragraphs into smaller ones.
-  ✗ [UI element capitalisation] "vibrato" should be capitalised — it's a named UI element (e.g. "Vibrato").
-      ↳ DISPUTED: Vibrato talks here about the musical term here not an ui element
-============================================================
+**Issues:**
 
-============================================================
-[2026-05-10 23:27] Manual — Cabinet — companion to the Amp device
-Score: 9/10  |  Words: 21
-────────────────────────────────────────────────────────────
-SUBMISSION:
+- ⚠ **[Paragraph length]** This paragraph has 5 sentences — keep paragraphs to 4 sentences or fewer. Break dense paragraphs into smaller ones.
+- ✗ **[UI element capitalisation]** "vibrato" should be capitalised — it's a named UI element (e.g. "Vibrato").
+    - ↳ **DISPUTED:** Vibrato talks here about the musical term here not an ui element
+
+---
+
+### 2026-05-10 23:27 — Manual
+*Cabinet — companion to the Amp device*
+
+**Score:** 9/10 &nbsp;·&nbsp; **Words:** 21
+
+**Submission:**
+
 Developed in collaboration with Softube,
   Cabinet uses physical-modelling technology and is designed to be
   used after Amp in a device chain.
 
-ISSUES:
-  ⚠ [Double spaces] Double spaces detected. Use a single space between words and after punctuation.
-============================================================
+**Issues:**
 
-============================================================
-[2026-05-11 13:10] Manual — Looper — basic recording workflow
-Score: 10/10  |  Words: 39
-────────────────────────────────────────────────────────────
-SUBMISSION:
+- ⚠ **[Double spaces]** Double spaces detected. Use a single space between words and after punctuation.
+
+---
+
+### 2026-05-11 13:10 — Manual
+*Looper — basic recording workflow*
+
+**Score:** 10/10 &nbsp;·&nbsp; **Words:** 39
+
+**Submission:**
+
 The Interval Control allows you to select at which time interval the effect should take place. By setting the control, for example, to "1 Bar" your desired repeat effect will take place every 1 Bar of your selected signal.
 
-No issues found.
-============================================================
+*No issues found.*
 
-============================================================
-[2026-05-11 13:10] Manual — Looper — basic recording workflow
-Score: 10/10  |  Words: 27
-────────────────────────────────────────────────────────────
-SUBMISSION:
+---
+
+### 2026-05-11 13:10 — Manual
+*Looper — basic recording workflow*
+
+**Score:** 10/10 &nbsp;·&nbsp; **Words:** 27
+
+**Submission:**
+
 You can offset the starting point by using the offset control using the Offset control. The values of the Offset range from "0" to "15/16" musical notes.
 
-No issues found.
-============================================================
+*No issues found.*
 
-============================================================
-[2026-05-11 15:22] Manual — Compressor — main controls
-Score: 10/10  |  Words: 21
-────────────────────────────────────────────────────────────
-SUBMISSION:
+---
+
+### 2026-05-11 15:22 — Manual
+*Compressor — main controls*
+
+**Score:** 10/10 &nbsp;·&nbsp; **Words:** 21
+
+**Submission:**
+
 The Beat repeat effect contains at the bottom right corner a Volume control, a Decay control and 3 different mix options.
 
-No issues found.
-============================================================
+*No issues found.*
 
-============================================================
-[2026-05-11 15:26] Manual — Compressor — main controls
-Score: 9/10  |  Words: 60
-────────────────────────────────────────────────────────────
-SUBMISSION:
+---
+
+### 2026-05-11 15:26 — Manual
+*Compressor — main controls*
+
+**Score:** 9/10 &nbsp;·&nbsp; **Words:** 60
+
+**Submission:**
+
 The Beat Repeat effect allows 3 output modes: Mix combines the original signal and the repeated signal, Ins cuts the original signal when the repeat cycle takes place and resumes the original signal when the repeat cycle is done. Finally, Gate, which is most usefull when house on a return track, passes only the repetitions and never the original signal
 
-ISSUES:
-  ✗ [UI element capitalisation] "return track" should be capitalised — it's a named UI element (e.g. "Return Track").
-============================================================
+**Issues:**
 
-============================================================
-[2026-05-11 22:05] Release Note — Stem Separation — Live 12.3
-Score: 9/10  |  Words: 93
-────────────────────────────────────────────────────────────
-SUBMISSION:
+- ✗ **[UI element capitalisation]** "return track" should be capitalised — it's a named UI element (e.g. "Return Track").
+
+---
+
+### 2026-05-11 22:05 — Release Note
+*Stem Separation — Live 12.3*
+
+**Score:** 9/10 &nbsp;·&nbsp; **Words:** 93
+
+**Submission:**
+
 To receive audio, you can navigate to your desired audio track and change the input source to one of the available devices on your network. Attention: audio buffer size can effect the quality of your incoming signal, so we recommend for streaming purposes that the receiving devices have a low buffer size and the outputing ones have a higher buffer size. For better quality, we recoomend using wired LAN connection with Link Audio. Wi-Fi is supported, but the quality of the audio stream is dependent on the quality and stability of the network.
 
-ISSUES:
-  ⚠ [Release note structure] Release notes should describe what the user can now DO. Lead with a capability, action, or change.
-============================================================
+**Issues:**
 
-============================================================
-[2026-05-11 22:08] Release Note — Stem Separation — Live 12.3
-Score: 10/10  |  Words: 70
-────────────────────────────────────────────────────────────
-SUBMISSION:
+- ⚠ **[Release note structure]** Release notes should describe what the user can now DO. Lead with a capability, action, or change.
+
+---
+
+### 2026-05-11 22:08 — Release Note
+*Stem Separation — Live 12.3*
+
+**Score:** 10/10 &nbsp;·&nbsp; **Words:** 70
+
+**Submission:**
+
 The names for active peers are shown in the new Link drop-down menu in the Control Bar. To receive audio, select a peer via the input type chooser on an audio track and then choose the specific source track with the input channel chooser. Make sure the audio track's monitoring state in Live is set to In to hear the incoming audio, as well as armed to record the audio.
 
-No issues found.
-============================================================
+*No issues found.*
 
-============================================================
-[2026-05-11 23:37] Release Note — Browser Filter View simplified
-Score: 8/10  |  Words: 141
-────────────────────────────────────────────────────────────
-SUBMISSION:
+---
+
+### 2026-05-11 23:37 — Release Note
+*Browser Filter View simplified*
+
+**Score:** 8/10 &nbsp;·&nbsp; **Words:** 141
+
+**Submission:**
+
 A separate Link page has been added to Live's Settings. To send or receive audio, make sure that the feature is enabled on all the particpating devices and that you have selected the correct Audio Driver and Source in your Audio tab. Once all connected, your device is now discoverable for other devices connected on the same network. By going to the Preferences menu and navigating to the Link tab, you will find here, in the Control Bar at the bottom the available devices or peer you can connect to, along with their device name, status and buffer information. The Link Audio devices available can now be seen in the Input section of the selected Track. To receive audio, you can navigate to your desired audio track and change the input source to one of the available devices on your network.
 
-ISSUES:
-  ⚠ [Paragraph length] This paragraph has 6 sentences — keep paragraphs to 4 sentences or fewer. Break dense paragraphs into smaller ones.
-  ⚠ [Passive voice] Possible passive voice detected: "added", "enabled". Rewrite with an active subject where possible.
-============================================================
+**Issues:**
 
-============================================================
-[2026-05-12 00:44] Release Note — Browser Filter View simplified
-Score: 8/10  |  Words: 9
-────────────────────────────────────────────────────────────
-SUBMISSION:
+- ⚠ **[Paragraph length]** This paragraph has 6 sentences — keep paragraphs to 4 sentences or fewer. Break dense paragraphs into smaller ones.
+- ⚠ **[Passive voice]** Possible passive voice detected: "added", "enabled". Rewrite with an active subject where possible.
+
+---
+
+### 2026-05-12 00:44 — Release Note
+*Browser Filter View simplified*
+
+**Score:** 8/10 &nbsp;·&nbsp; **Words:** 9
+
+**Submission:**
+
 In the dedicated Link page new features were added:
 
-ISSUES:
-  ⚠ [Passive voice] Possible passive voice detected: "added". Rewrite with an active subject where possible.
-  ⚠ [Release note structure] Release notes should describe what the user can now DO. Lead with a capability, action, or change.
-============================================================
+**Issues:**
 
-============================================================
-[2026-05-12 00:45] Release Note — Browser Filter View simplified
-Score: 8/10  |  Words: 45
-────────────────────────────────────────────────────────────
-SUBMISSION:
+- ⚠ **[Passive voice]** Possible passive voice detected: "added". Rewrite with an active subject where possible.
+- ⚠ **[Release note structure]** Release notes should describe what the user can now DO. Lead with a capability, action, or change.
+
+---
+
+### 2026-05-12 00:45 — Release Note
+*Browser Filter View simplified*
+
+**Score:** 8/10 &nbsp;·&nbsp; **Words:** 45
+
+**Submission:**
+
 Sync to Incoming Audio — Enable this toggle when monitoring incoming audio from Link Audio peers in Live<. When enabled, Live's Link session is delayed by the set latency value. Note that all other peers in the session must have Monitoring Mode set to Off.
 
-ISSUES:
-  ⚠ [Release note structure] Release notes should describe what the user can now DO. Lead with a capability, action, or change.
-  ⚠ [Filler phrases] "note that" — these add no information. Cut them entirely.
-============================================================
+**Issues:**
 
-============================================================
-[2026-05-12 22:18] Release Note — Stem Separation — Live 12.3
-Score: 10/10  |  Words: 38
-────────────────────────────────────────────────────────────
-SUBMISSION:
+- ⚠ **[Release note structure]** Release notes should describe what the user can now DO. Lead with a capability, action, or change.
+- ⚠ **[Filler phrases]** "note that" — these add no information. Cut them entirely.
+
+---
+
+### 2026-05-12 22:18 — Release Note
+*Stem Separation — Live 12.3*
+
+**Score:** 10/10 &nbsp;·&nbsp; **Words:** 38
+
+**Submission:**
+
 The newest update bring to Delay new parameters that provide more modulation posibilities and LFO shapes. The LFO rate can now have as denominator either Hertz, miliseconds or it has the option to be tempo-synced to beat divisions.
 
-No issues found.
-============================================================
+*No issues found.*
 
-============================================================
-[2026-05-12 22:19] Release Note — Stem Separation — Live 12.3
-Score: 9/10  |  Words: 161
-────────────────────────────────────────────────────────────
-SUBMISSION:
+---
+
+### 2026-05-12 22:19 — Release Note
+*Stem Separation — Live 12.3*
+
+**Score:** 9/10 &nbsp;·&nbsp; **Words:** 161
+
+**Submission:**
+
 You can toggle the newest LFO parameters navitating at the bottom of the Filter visualizer in the left corner. By toggling the the tab the following parameters will appear:
+
 - Rate (Frequency) - permits you to adjust the speed of the LFO in the selected measurement unit.
 - Measuring Unit - here you can toggle between Rate (Hertz), Time (miliseconds & seconds), Synced (note values, beats and bars, synced to the project tempo in binary divisions), Triplet (same as Synced, but in ternary divisions), Dotted (note values extended by half their length, e.g. a dotted 1/4 = 1.5 beats), 16th (note values subdivided into 16ths of a bar, the smallest standard grid division).
 - Wave - allows you to select from 7 different wave shapes (Sine, Triangle, Ramp Up, Ramp Down, Square, Sample & Hold - abreviated SH, and Wander - which is a random continously generated wavform).
 - Morph - you can use this parameter to shape the selected waveform.
 
-ISSUES:
-  ⚠ [Paragraph length] This paragraph has 6 sentences — keep paragraphs to 4 sentences or fewer. Break dense paragraphs into smaller ones.
-  ✗ [UI element capitalisation] "note" should be capitalised — it's a named UI element (e.g. "Note").
-      ↳ DISPUTED: Note isn't a UI elements but rather efers to musical note
-============================================================
+**Issues:**
 
-============================================================
-[2026-05-13 15:32] Release Note — Link Audio — Live 12.4
-Score: 10/10  |  Words: 27
-────────────────────────────────────────────────────────────
-SUBMISSION:
+- ⚠ **[Paragraph length]** This paragraph has 6 sentences — keep paragraphs to 4 sentences or fewer. Break dense paragraphs into smaller ones.
+- ✗ **[UI element capitalisation]** "note" should be capitalised — it's a named UI element (e.g. "Note").
+    - ↳ **DISPUTED:** Note isn't a UI elements but rather efers to musical note
+
+---
+
+### 2026-05-13 15:32 — Release Note
+*Link Audio — Live 12.4*
+
+**Score:** 10/10 &nbsp;·&nbsp; **Words:** 27
+
+**Submission:**
+
 For faster processign times, the Stem Separation process now only takes place in the audible portion of the clip, marked by its start-end position in the grid.
 
-No issues found.
-============================================================
+*No issues found.*
 
-============================================================
-[2026-05-13 15:35] Release Note — Link Audio — Live 12.4
-Score: 8/10  |  Words: 46
-────────────────────────────────────────────────────────────
-SUBMISSION:
+---
+
+### 2026-05-13 15:35 — Release Note
+*Link Audio — Live 12.4*
+
+**Score:** 8/10 &nbsp;·&nbsp; **Words:** 46
+
+**Submission:**
+
 It is now possible to extract individual stems from a time-selection the  with the Stem Separation feature. To access this feature, you can select the track of your choice and a time period, and right-click to open the context menu where you can acess the command.
 
-ISSUES:
-  ⚠ [Weak sentence opener] "It is now possible to extract individual..." — avoid starting sentences with "There is/are" or "It is". Lead with the subject.
-  ⚠ [Double spaces] Double spaces detected. Use a single space between words and after punctuation.
-============================================================
+**Issues:**
 
-============================================================
-[2026-05-15 15:17] Bug Fix — Bounced track showing wrong track number
-Score: 8/10  |  Words: 16
-────────────────────────────────────────────────────────────
-SUBMISSION:
+- ⚠ **[Weak sentence opener]** "It is now possible to extract individual..." — avoid starting sentences with "There is/are" or "It is". Lead with the subject.
+- ⚠ **[Double spaces]** Double spaces detected. Use a single space between words and after punctuation.
+
+---
+
+### 2026-05-15 15:17 — Bug Fix
+*Bounced track showing wrong track number*
+
+**Score:** 8/10 &nbsp;·&nbsp; **Words:** 16
+
+**Submission:**
+
 Improved content list load performance in the Plug-Ins browser when the creator grouping option is active.
 
-ISSUES:
-  ✗ [UI element capitalisation] "browser" should be capitalised — it's a named UI element (e.g. "Browser").
-  ⚠ [Bug fix structure] Bug fixes should describe what now works. Add what the user experiences after the fix.
-============================================================
+**Issues:**
 
-============================================================
-[2026-05-15 15:22] Release Note — Auto Filter new filter types — Live 12.2
-Score: 10/10  |  Words: 32
-────────────────────────────────────────────────────────────
-SUBMISSION:
+- ✗ **[UI element capitalisation]** "browser" should be capitalised — it's a named UI element (e.g. "Browser").
+- ⚠ **[Bug fix structure]** Bug fixes should describe what now works. Add what the user experiences after the fix.
+
+---
+
+### 2026-05-15 15:22 — Release Note
+*Auto Filter new filter types — Live 12.2*
+
+**Score:** 10/10 &nbsp;·&nbsp; **Words:** 32
+
+**Submission:**
+
 On Windows, you can now navigate backwards and forwards in the Browser by using the navigation buttons on the top left corner. This feature is available when Live's Browser is in focus
 
-No issues found.
-============================================================
+*No issues found.*
 
-============================================================
-[2026-05-15 15:23] Release Note — Auto Filter new filter types — Live 12.2
-Score: 9/10  |  Words: 31
-────────────────────────────────────────────────────────────
-SUBMISSION:
+---
+
+### 2026-05-15 15:23 — Release Note
+*Auto Filter new filter types — Live 12.2*
+
+**Score:** 9/10 &nbsp;·&nbsp; **Words:** 31
+
+**Submission:**
+
 Added step duration adjustment on the Launchky Mini MK4, Launchkey MK4, and Move. Now, holding the desired step and pressing the adjacent one, you prelond the duration of the initial step.
 
-ISSUES:
-  ⚠ [Release note structure] Release notes should describe what the user can now DO. Lead with a capability, action, or change.
-============================================================
+**Issues:**
 
-============================================================
-[2026-05-15 20:37] Bug Fix — Crash when undoing a Soundtoys plug-in load
-Score: 10/10  |  Words: 31
-────────────────────────────────────────────────────────────
-SUBMISSION:
+- ⚠ **[Release note structure]** Release notes should describe what the user can now DO. Lead with a capability, action, or change.
+
+---
+
+### 2026-05-15 20:37 — Bug Fix
+*Crash when undoing a Soundtoys plug-in load*
+
+**Score:** 10/10 &nbsp;·&nbsp; **Words:** 31
+
+**Submission:**
+
 Added step duration adjustment on the Launchky Mini MK4, Launchkey MK4, and Move. Now, holding the desired step and pressing the adjacent one, you prelond the duration of the initial step.
 
-ISSUES:
-  ⚠ [Bug fix structure] Bug fixes should describe what was broken. Include the trigger condition (when/where it happened).
-      ↳ DISPUTED: Yes, but here there was something added, and I described what was added an how to use it.
-============================================================
+**Issues:**
 
-============================================================
-[2026-05-15 20:51] Release Note — Komplete Kontrol S MK3 control surface update
-Score: 10/10  |  Words: 61
-────────────────────────────────────────────────────────────
-SUBMISSION:
+- ⚠ **[Bug fix structure]** Bug fixes should describe what was broken. Include the trigger condition (when/where it happened).
+    - ↳ **DISPUTED:** Yes, but here there was something added, and I described what was added an how to use it.
+
+---
+
+### 2026-05-15 20:51 — Release Note
+*Komplete Kontrol S MK3 control surface update*
+
+**Score:** 10/10 &nbsp;·&nbsp; **Words:** 61
+
+**Submission:**
+
 Increased the resize area at the start and end of a MIDI note which allows to resize the the note. Now, MIDI notes can be resized by grabbing them slightly after or before their intended start. The new resizing area helps especially when, for example, notes are very short. Before, this type of resizing was only availble behind the note end.
 
-ISSUES:
-  ✗ [UI element capitalisation] "note" should be capitalised — it's a named UI element (e.g. "Note").
-      ↳ DISPUTED: note - not a ui
-  ⚠ [Release note structure] Release notes should describe what the user can now DO. Lead with a capability, action, or change.
-      ↳ DISPUTED: this is already in the improvemnts section which differes from the main section
-  ✗ [Grammar: allows/enables to] "allows to" and "enables to" are grammatically incorrect. Use "allows you to", "lets you", or "enables you to".
-      ↳ DISPUTED: not in this case, because this is in between a bug report and a release note
-============================================================
+**Issues:**
 
-============================================================
-[2026-05-16 01:00] Bug Fix — Sidechain export failure with Group Track source
-Score: 8/10  |  Words: 26
-────────────────────────────────────────────────────────────
-SUBMISSION:
+- ✗ **[UI element capitalisation]** "note" should be capitalised — it's a named UI element (e.g. "Note").
+    - ↳ **DISPUTED:** note - not a ui
+- ⚠ **[Release note structure]** Release notes should describe what the user can now DO. Lead with a capability, action, or change.
+    - ↳ **DISPUTED:** this is already in the improvemnts section which differes from the main section
+- ✗ **[Grammar: allows/enables to]** "allows to" and "enables to" are grammatically incorrect. Use "allows you to", "lets you", or "enables you to".
+    - ↳ **DISPUTED:** not in this case, because this is in between a bug report and a release note
+
+---
+
+### 2026-05-16 01:00 — Bug Fix
+*Sidechain export failure with Group Track source*
+
+**Score:** 8/10 &nbsp;·&nbsp; **Words:** 26
+
+**Submission:**
+
 Fixed an issue where undoing a hot-swap to a Rack with fewer Macro Controls than the original wouldn't bring all the previously visible Macro Controls back.
 
-ISSUES:
-  ⚠ [Bug fix structure] Bug fixes should describe what now works. Add what the user experiences after the fix.
-  ✗ [No contractions] Contractions found: "wouldn't". Use the full form (e.g. "don't" → "do not").
-============================================================
+**Issues:**
+
+- ⚠ **[Bug fix structure]** Bug fixes should describe what now works. Add what the user experiences after the fix.
+- ✗ **[No contractions]** Contractions found: "wouldn't". Use the full form (e.g. "don't" → "do not").
