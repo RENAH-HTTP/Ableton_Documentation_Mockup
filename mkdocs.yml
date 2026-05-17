@@ -40,6 +40,9 @@ nav:
       - Monday, 11 May: Journal/11_May.md
       - Sunday, 10 May: Journal/10_May.md
       - Sat–Sun, 9–10 May: Journal/09-10_May.md
+  - Linter:
+      - Linter: Linter/Linter.md
+      - History: Linter/History.md
   - Extracted Rules:
       - Rules: Extracted_Rules/Extracted_Rules.md
       - Update Log: Extracted_Rules/Update_Log.md
