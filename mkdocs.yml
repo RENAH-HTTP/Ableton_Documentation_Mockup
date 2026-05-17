@@ -28,6 +28,6 @@ nav:
   - Old Examples:
       - 0. Stem Separation: Old_Versions/00_stem_separation_old.md
   - Git & GitHub:
-      - 0. Git Learning Notes: Git/Git_Learning_Notes.md
+      - Git Learning Notes: Git/Git_Learning_Notes.md
 extra_css:
   - stylesheets/extra.css
