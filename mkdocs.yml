@@ -46,5 +46,8 @@ nav:
   - Questions & Notes:
       - Questions: Questions & Notes/Questions.md
       - Notes: Questions & Notes/Notes.md
+markdown_extensions:
+  - pymdownx.tilde
+
 extra_css:
   - stylesheets/extra.css
