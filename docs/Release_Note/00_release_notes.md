@@ -4,15 +4,15 @@
 
 ## About This Document
 
-This document includes mockup release notes for Ableton Live 12.4. 
+This document includes mockup release notes for Ableton Live 12.4 and 12.3
 
 ## How to Use This Document
 
-- Use the navigation on the left to jump to a specific version.
+- You can use the navigation on the left to switch to a specific version.
 - Each version section lists new features, improvements, and bug fixes.
-- Screenshots and diagrams are included where relevant to help illustrate changes.
 
 ## Versions Covered
 
-Live 12.4 
-Live 12.3 - partially
+- Live 12.4 
+
+- Live 12.3 (partially)

@@ -1,12 +1,12 @@
 # Git Notes
 
-Stuff I actually did and understand. Short form.
+Stuff I actually did and understand :)
 
 ---
 
 ## Mental model
 
-- branch = full snapshot of repo, not a folder
+- branch = full snapshot of repo, not a folder...
 - commit = photo of every file at one moment, has a hash
 - branch label = sticky note pointing at one commit
 - `HEAD` = "you are here"
@@ -40,7 +40,7 @@ git add Writing_Rules/Writing_Rules.md   # stage
 git commit -m "feat: add more writing rules"   # commit
 ```
 
-forgot to stage once → got "nothing to commit, working tree clean"
+I forgot to stage once and got "nothing to commit, working tree clean"
 `git status` shows it. red = unstaged, green = staged.
 
 ### unstaging
@@ -51,7 +51,7 @@ git restore --staged <file>   # undo a git add
 ### undoing commits
 ```
 git reset --soft HEAD~1    # undo last commit, keep changes staged
-git reset --hard HEAD~1    # undo last commit + delete changes ⚠️
+git reset --hard HEAD~1    # undo last commit + delete changes 
 ```
 
 `HEAD~1` = one commit back
@@ -69,8 +69,13 @@ git merge writing-rules     # pull writing-rules into main
 git push
 ```
 
-merge opened Vim asking for a message. exit Vim: `Esc`, then `:wq`, Enter.
-my merge used the 'ort' strategy = true merge with a merge commit (not fast-forward).
+merge opened Vim asking for a message. Vim = a text editor inside the terminal. no mouse, only keys.
+exit Vim: `Esc`, then type `:wq`, Enter. (`:wq` = save and quit)
+
+my merge said it used the 'ort' strategy. from what I get so far:
+- if nothing new is on `main`, git just glues the new commits on the end → no message needed
+- if both branches have new stuff, git makes one extra commit to join them → that's what needed a message
+- 'ort' is just the name of the recipe git uses to combine them. don't really get the details yet, still looking into it.
 
 ### deleting a branch (local only)
 ```
