@@ -28,7 +28,7 @@ The Pitch Range (High, Mid or Bass) selects the expected input range, making the
 
 ![Alt text](../images/Manual/01_Audio_Effects/01.01_Auto_Shift/AutoShiftLiveModeL12.png)
 
-The Input Gain, with the range bwetween -24 to +24 dB trims the signal incoming into the detector for more accurate detection. At the bottom, Latency is displaying in milliseconds the time difference between input and output of the audio device. For live performance scenarios, the Live Mode, which can be toggled in the title bar, reduces latency for performance. This setting can introduce gltiches depending on the speed of the pitch change.
+The Input Gain, with the range between -24 to +24 dB trims the signal incoming into the detector for more accurate detection. At the bottom, Latency is displaying in milliseconds the time difference between input and output of the audio device. For live performance scenarios, the Live Mode, which can be toggled in the title bar, reduces latency for performance. This setting can introduce glitches depending on the speed of the pitch change.
 
 ### 1.1.3 Quantizer Mode - Scale-Based Correction
 
@@ -36,9 +36,9 @@ The Input Gain, with the range bwetween -24 to +24 dB trims the signal incoming 
 
 The Quantizer setting aims to correct incoming audio to the notes of a defined scale.
 
-This section contains multiple control which change different aspects of the quantization process. With Correction Strenght you can adjust how strongly the audio is corrected to reach the target note. To combat the corrections made, Smooth, which has a range of 0ms t0 200ms, changes the interpolation time for less artifacts.
+This section contains multiple control which change different aspects of the quantization process. With Correction Strength you can adjust how strongly the audio is corrected to reach the target note. To combat the corrections made, Smooth, which has a range of 0ms to 200ms, changes the interpolation time for less artifacts.
 
-In the audio device, there is a built in setting which changes the target musical scale. With Root & Scale you tell the device which target it should reach. You can use the parameters Use Current Scale which will prompt Auto Shift to follow the active clip scale selected in the session (“scale awareness”). Aftewards, the scale’s notes will be highlighted.
+In the audio device, there is a built in setting which changes the target musical scale. With Root & Scale you tell the device which target it should reach. You can use the parameters Use Current Scale which will prompt Auto Shift to follow the active clip scale selected in the session (“scale awareness”). Afterwards, the scale’s notes will be highlighted.
 
 If you want to build a custom scale, you can use Included Notes. You to enable and disable note and make your personalized scale. 
 
@@ -52,7 +52,7 @@ When you enable MIDI In, Auto Shift switches to using incoming MIDI data to dete
 
 You can select in this menu the **External Source** if you want to select and alternate source MIDI. The MIDI Mode includes the setting **Tapping Point**, where you can select if you want to introduce the MIDI signal either Pre FX, Post FX or Post Mixer. You can select Post FX or Post Mixer to include, for example, any audio effects which you might have on your desired MIDI input track.
 
-Choose between two voice modes Mono and Poly to have access to one or up to 8 voices. The Mono mode provides a Glides setting which can be selected for sliding between note values. Polt Mode provides either 2, 4 or 8 voices for harmonization. 
+Choose between two voice modes Mono and Poly to have access to one or up to 8 voices. The Mono mode provides a Glides setting which can be selected for sliding between note values. Poly Mode provides either 2, 4 or 8 voices for harmonization. 
 
 Enabling MIDI Input causes Auto Shift to only output audio when it is receiving MIDI notes.
 
@@ -60,9 +60,9 @@ Enabling MIDI Input causes Auto Shift to only output audio when it is receiving 
 
 The keyboard at the top shows which MIDI note is currently being received. The keys light up in real time while notes are being updated. 
 
-The MIDI Mode features an Envelope section which includes Attack and Release parameteres which are visualized in the box to their right. Turning on Note Latch will make the last held MIDI note stay active even after the key has been released. 
+The MIDI Mode features an Envelope section which includes Attack and Release parameters which are visualized in the box to their right. Turning on Note Latch will make the last held MIDI note stay active even after the key has been released. 
 
-The Pitch Bend paramenter, abreviated PB, select by how much the pitch will is altered when using the Pitch Bend Wheel on your controller of choice. 
+The Pitch Bend paramenter, abbreviated PB, select by how much the pitch will is altered when using the Pitch Bend Wheel on your controller of choice. 
 
 ![Alt text](../images/Manual/01_Audio_Effects/01.01_Auto_Shift/AutoShiftMIDITrackL12.png)
 
@@ -116,7 +116,7 @@ The Interval control allows you to select at which time interval the effect shou
 
 You can offset the starting point by using the Offset control using the Offset control. The values of the Offset range from "0" to "15/16" musical notes. The Offset delay the starting point by the value which you select. For example, having an Interval of "1 Bar" and an Offset of "1/16", your Beat Repeat effect will trigger on the second sixteenth of the bar. 
 
-Optionally, by toggling the Repeat button, you can trigger your effect on the spot, allowing for manual control over the duration of th repeat. By using Repeat, the audio effect will continue until the option is toggled off. 
+Optionally, by toggling the Repeat button, you can trigger your effect on the spot, allowing for manual control over the duration of the repeat. By using Repeat, the audio effect will continue until the option is toggled off. 
 
 ### 1.2.3 Chance & Gate
 
@@ -148,6 +148,6 @@ You can turn in on and off by toggling the Filter button underneath the graph.
 
 The Beat repeat effect contains at the bottom right corner a Volume control, a Decay control and 3 different mix options. 
 
-The Beat Repeat effect allows 3 output modes: Mix combines the original signal and the repeated signal, Ins cuts the original signal when the repeat cycle takes place and resumes the original signal when the repeat cycle is done. Finally, Gate, which is most usefull when house on a return track, passes only the repetitions and never the original signal
+The Beat Repeat effect allows 3 output modes: Mix combines the original signal and the repeated signal, Ins cuts the original signal when the repeat cycle takes place and resumes the original signal when the repeat cycle is done. Finally, Gate, which is most useful when house on a return track, passes only the repetitions and never the original signal
 
 The Volume control in decibels the loudness of the repeated signal, while the Decay control, gradually fade out the signal. Setting the Decay value to "0%" will keep the Volume unaltered, while "100%" will allow less repeats wih a lower volume.
